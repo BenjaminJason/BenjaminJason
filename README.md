@@ -1,13 +1,12 @@
 <!-- ⚡ BENJAMIN JASON · Neon Cyberpunk GitHub Profile ⚡
-     用法:建一个公开仓库 BenjaminJason/BenjaminJason,把本文件存为其中的 README.md
-     配色系统:背景 #0D1117 · 霓虹青 #00F2FE · 电光蓝 #4FACFE · 翠绿 #00FF87 -->
+     Palette: bg #0D1117 · neon cyan #00F2FE · electric blue #4FACFE · mint #00FF87 -->
 
-<!-- ═══════════════ 顶部:霓虹渐变波浪 ═══════════════ -->
+<!-- ═══════════════ Header wave ═══════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F2FE,50:4FACFE,100:00FF87&text=BENJAMIN%20JASON&fontSize=52&fontColor=0D1117&animation=fadeIn&fontAlignY=38&desc=AI%20Infra%20%C2%B7%20Autonomous%20Agents%20%C2%B7%20Indie%20Builder&descSize=18&descAlignY=58" width="100%" alt="header"/>
 </p>
 
-<!-- ═══════════════ 打字机动效 ═══════════════ -->
+<!-- ═══════════════ Typing intro ═══════════════ -->
 <p align="center">
   <a href="https://benjaminjason.github.io">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00F2FE&background=00000000&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Benjamin+Jason;An+AI+Infra+Innovator+%26+Product+Builder;5+autonomous+agents+in+production+%F0%9F%9B%B0%EF%B8%8F;Compressing+chaos+into+a+single+click." alt="typing"/>
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/%E2%9A%A1-Building%20in%20Public-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF87" alt="status"/>
 </p>
 
-<!-- 社交链接:把 # 换成你的真实链接,不需要的行直接删 -->
+<!-- Social links: replace # with real URLs, delete what you don't need -->
 <p align="center">
   <a href="https://benjaminjason.github.io"><img src="https://img.shields.io/badge/Ben's%20Lab-00F2FE?style=for-the-badge&logo=githubpages&logoColor=0D1117" alt="lab"/></a>
   <a href="mailto:senj43223@gmail.com"><img src="https://img.shields.io/badge/Email-4FACFE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="email"/></a>
@@ -30,28 +29,28 @@
 
 ---
 
-<!-- ═══════════════ 关于我:双栏布局 ═══════════════ -->
+<!-- ═══════════════ About: two columns ═══════════════ -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ What I Run — 生产环境 Agent 舰队 <sub>🔒</sub>
+### 🛰️ What I Run — a production agent fleet <sub>🔒</sub>
 
-- **通用事件检测框架** — 电商 / 软件发版 / 股价三个领域共用一套 diff 核心;两级 Agent 记忆(情景→语义压缩)+ 检索增强问答;LLM 三引擎自动降级
-- **电商智能监控系统** — 库存 / 价格 / 尺码颜色级精确追踪,Discord 机器人推送 + Serverless 斜杠命令即时查询
-- **情报自动化流水线** — 每周扫描 GitHub / HN / arXiv / 招聘信号 → AI 提炼 → 知识库自动归档
-- 全部 **24/7 无人值守**:GitHub Actions + 外部可靠调度 + Cloudflare Workers,月成本 ≈ $0
+- **Universal event-detection framework** — e-commerce, software releases & stock prices share **one diff engine**; two-tier agent memory (episodic → semantic) with retrieval-augmented recall; triple-LLM fallback
+- **E-commerce intelligence bot** — color-level stock / price / size tracking, Discord push + serverless slash-command queries
+- **Intelligence pipeline** — weekly scans of GitHub / HN / arXiv / job signals → LLM synthesis → auto-filed knowledge base
+- All **24/7 unattended**: GitHub Actions + external scheduling + Cloudflare Workers, ≈ $0/month
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Currently
 
-- 🧠 用 **FSRS 循证学习法** 刷 LeetCode + 系统设计
-- ☸️ 补 **Kubernetes** 与推理服务部署
-- 🔐 深读 **MCP / Agent 安全**(拦截、防泄漏)
-- 🌐 在 [**Ben's Lab**](https://benjaminjason.github.io) 公开构建交互式学习宇宙
-- 📐 数学系出身 · 用第一性原理拆解一切
+- 🧠 Grinding **LeetCode + system design** on an FSRS evidence-based schedule
+- ☸️ Leveling up **Kubernetes** & inference serving
+- 🔐 Deep-reading **MCP / agent security** (interception, leak prevention)
+- 🌐 Building in public at [**Ben's Lab**](https://benjaminjason.github.io)
+- 📐 Math major — first-principles everything
 
 </td>
 </tr>
@@ -59,7 +58,7 @@
 
 ---
 
-<!-- ═══════════════ 技能墙:霓虹徽章(全部 slug 已验证)═══════════════ -->
+<!-- ═══════════════ Tech stack: neon badges (all slugs verified) ═══════════════ -->
 <h3 align="center">🧬 TECH ARSENAL</h3>
 
 <p align="center">
@@ -97,7 +96,7 @@
 
 ---
 
-<!-- ═══════════════ 精选项目:2×2 霓虹卡片 ═══════════════ -->
+<!-- ═══════════════ Featured: 2×2 neon cards ═══════════════ -->
 <h3 align="center">🚀 FEATURED BUILDS</h3>
 
 <table width="100%">
@@ -105,7 +104,7 @@
 <td width="50%" valign="top">
 
 #### 🚀 [App Launch Promoter](https://github.com/BenjaminJason/app-launch-promoter)
-**一键 AI 出海营销工具箱** — 商店文案 / ASO / 社媒帖 / 多市场本地化一次生成。单文件 PWA · 无后端 · 支持 14 种大模型 · BYO-Key
+**One-click AI launch-marketing kit** — store listings, ASO, social copy & per-market localization in one pass. Single-file PWA · no backend · 14 LLMs · BYO-key
 
 <img src="https://img.shields.io/badge/PWA-00F2FE?style=flat-square&logoColor=0D1117"/> <img src="https://img.shields.io/badge/14%20LLMs-4FACFE?style=flat-square"/> <img src="https://img.shields.io/badge/Single%20File-00FF87?style=flat-square"/>
 
@@ -113,7 +112,7 @@
 <td width="50%" valign="top">
 
 #### 🛰️ Autonomous Agent Fleet <sub>🔒 in production</sub>
-**自研生产级 Agent 系统群** — Observe→Detect→Understand→Recommend 全链路:通用事件检测(3 领域 1 核心)、两级 Agent 记忆、监控机器人、AI 情报流水线,全自动运行
+**Self-built production agent systems** — the full Observe→Detect→Understand→Recommend loop: universal event detection (3 domains, 1 core), two-tier agent memory, monitoring bots & a weekly AI intelligence pipeline. Fully unattended.
 
 <img src="https://img.shields.io/badge/Agent%20Memory-00F2FE?style=flat-square&logoColor=0D1117"/> <img src="https://img.shields.io/badge/3%20Domains%201%20Core-4FACFE?style=flat-square"/> <img src="https://img.shields.io/badge/In%20Production-00FF87?style=flat-square"/>
 
@@ -123,7 +122,7 @@
 <td width="50%" valign="top">
 
 #### 🌐 [Ben's Lab](https://benjaminjason.github.io)
-**交互式学习宇宙(Live)** — 量化回测 / Web3 / 博弈论街机 / 苏格拉底导师 / 财报仪表盘,五个可玩的浏览器实验室,零安装
+**Interactive learning universe (live)** — quant backtesting, Web3, a game-theory arcade, a Socratic AI tutor & an earnings dashboard. Five playable browser labs, zero install.
 
 <img src="https://img.shields.io/badge/Live%20Site-00F2FE?style=flat-square&logoColor=0D1117"/> <img src="https://img.shields.io/badge/5%20Apps-4FACFE?style=flat-square"/> <img src="https://img.shields.io/badge/Zero%20Install-00FF87?style=flat-square"/>
 
@@ -131,7 +130,7 @@
 <td width="50%" valign="top">
 
 #### 📊 [Market Earnings Dashboard](https://github.com/BenjaminJason/market-earnings-dashboard)
-**实时美股财报仪表盘** — 六大行业横向对比,入门/进阶/专业三档自适应,中英双语,可装进手机桌面
+**Real-time US-stock earnings dashboard** — six sectors side-by-side, three depth levels that adapt to you, bilingual, installable on your phone.
 
 <img src="https://img.shields.io/badge/Realtime-00F2FE?style=flat-square&logoColor=0D1117"/> <img src="https://img.shields.io/badge/Bilingual-4FACFE?style=flat-square"/> <img src="https://img.shields.io/badge/Adaptive-00FF87?style=flat-square"/>
 
@@ -140,23 +139,24 @@
 </table>
 
 <p align="center">
-  <sub>🧪 更多实验室:
+  <sub>🧪 More labs:
   <a href="https://github.com/BenjaminJason/quant-lab">quant-lab</a> ·
   <a href="https://github.com/BenjaminJason/web3-ai-lab">web3-ai-lab</a> ·
   <a href="https://github.com/BenjaminJason/socratic-lab">socratic-lab</a> ·
   <a href="https://github.com/BenjaminJason/game-theory-arcade">game-theory-arcade</a> ·
   <a href="https://github.com/BenjaminJason/cognitive-gym">cognitive-gym</a> ·
   <a href="https://github.com/BenjaminJason/phd-hub">phd-hub</a>
-  &nbsp;|&nbsp; 🔒 另有 3 套私有 Agent 系统 24/7 生产运行中 — 细节乐意面聊</sub>
+  &nbsp;|&nbsp; 🔒 plus 3 private agent systems running 24/7 in production — happy to talk details</sub>
 </p>
 
 ---
 
-<!-- ═══════════════ 动态数据统计 ═══════════════ -->
+<!-- ═══════════════ Stats ═══════════════ -->
 <h3 align="center">📈 STATS AS ART</h3>
 
-<!-- 提示:github-readme-stats 公共实例高峰期会限流(503),加载失败是它的问题不是你的;
-     长期不显示可自部署(fork vercel 一键),或直接删掉这一张,下面的组件不受影响 -->
+<!-- Note: the public github-readme-stats instance rate-limits at peak (503).
+     If this first card stays broken, self-host on Vercel (one click) or delete this line —
+     everything below is served by independent services. -->
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BenjaminJason&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00FF87&text_color=C9D1D9&ring_color=4FACFE&include_all_commits=true" alt="stats"/>
   <img height="170" src="https://streak-stats.demolab.com/?user=BenjaminJason&hide_border=true&background=0D1117&ring=00F2FE&fire=00FF87&currStreakLabel=00F2FE&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=4FACFE&dates=8B949E" alt="streak"/>
@@ -166,7 +166,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjaminJason&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00F2FE&point=00FF87&area=true&area_color=4FACFE" width="94%" alt="activity"/>
 </p>
 
-<!-- 3D 贡献图:由本仓库的 Action 每日生成(profile-3d.yml) -->
+<!-- 3D contribution city — regenerated daily by this repo's Action (profile-3d.yml) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BenjaminJason/BenjaminJason/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3d contrib"/>
 </p>
@@ -181,7 +181,7 @@
 
 ---
 
-<!-- ═══════════════ 深度关注领域 ═══════════════ -->
+<!-- ═══════════════ Deep focus ═══════════════ -->
 <h3 align="center">🔭 DEEP FOCUS</h3>
 
 <table width="100%">
@@ -190,21 +190,21 @@
 
 **🤖 AI Agents & Memory**
 
-<sub>情景→语义两级记忆 · FSRS 调度 · 检索增强 recall · Agent 安全与防火墙(MCP)</sub>
+<sub>episodic→semantic two-tier memory · FSRS scheduling · retrieval-augmented recall · MCP & agent security</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **🔐 Privacy Compute**
 
-<sub>完全同态加密(FHE)· 分布式密钥管理 DKM · Rust 密码学 Infra 赛道观察</sub>
+<sub>fully homomorphic encryption (FHE) · distributed key management (DKM) · watching the Rust crypto-infra track</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 **🏦 RWA & On-chain**
 
-<sub>真实世界资产代币化 · BUIDL/国债上链 · 加密基础设施 TVL 追踪</sub>
+<sub>real-world asset tokenization · treasuries on-chain (BUIDL) · crypto-infra TVL tracking</sub>
 
 </td>
 </tr>
@@ -216,12 +216,12 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=4000&pause=1200&color=00FF87&background=00000000&center=true&vCenter=true&width=560&lines=%22Compressing+chaos+into+a+single+click.%22;%22Building+the+un-slothful+future.%22" alt="motto"/>
 </p>
 
-<!-- 贪吃蛇吃贡献格:由本仓库的 Action 每日生成(snake.yml),输出在 output 分支 -->
+<!-- Contribution snake — regenerated daily by snake.yml, lives on the `output` branch -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BenjaminJason/BenjaminJason/output/github-snake-dark.svg" width="100%" alt="snake"/>
 </p>
 
-<!-- ═══════════════ 底部波浪收尾 ═══════════════ -->
+<!-- ═══════════════ Footer wave ═══════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF87,50:4FACFE,100:00F2FE&section=footer" width="100%" alt="footer"/>
 </p>

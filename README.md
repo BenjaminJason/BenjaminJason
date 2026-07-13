@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/%E2%9A%A1-Building%20in%20Public-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF87" alt="status"/>
 </p>
 
+<!-- ▶ Live playground shortcuts — apps a visitor can open right now -->
+<p align="center">
+  <a href="https://benjaminjason.github.io/quant-lab/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-Quant%20Lab-0D1117?style=for-the-badge&labelColor=00F2FE" alt="quant lab"/></a>
+  <a href="https://benjaminjason.github.io/game-theory-arcade/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-Game%20Theory%20Arcade-0D1117?style=for-the-badge&labelColor=00FF87" alt="arcade"/></a>
+  <a href="https://benjaminjason.github.io/app-launch-promoter/"><img src="https://img.shields.io/badge/%E2%96%B6%20TRY-App%20Launch%20Promoter-0D1117?style=for-the-badge&labelColor=4FACFE" alt="promoter"/></a>
+  <a href="https://benjaminjason.github.io/market-earnings-dashboard/"><img src="https://img.shields.io/badge/%E2%96%B6%20OPEN-Earnings%20Dashboard-0D1117?style=for-the-badge&labelColor=C9D1D9" alt="dashboard"/></a>
+</p>
+
 <!-- Social links: replace # with real URLs, delete what you don't need -->
 <p align="center">
   <a href="https://benjaminjason.github.io"><img src="https://img.shields.io/badge/Ben's%20Lab-00F2FE?style=for-the-badge&logo=githubpages&logoColor=0D1117" alt="lab"/></a>

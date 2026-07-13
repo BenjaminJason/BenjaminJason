@@ -190,11 +190,10 @@
 <!-- WakaTime coding-time card — 开启步骤:
      1) wakatime.com → Settings → Profile:记下 username,并勾选 "Display code time publicly"
      2) 编辑器装 WakaTime 插件(VS Code 搜 WakaTime,填 API key)
-     3) 把下面 YOUR_WAKATIME_USERNAME 换成你的 username,删掉包住它的注释符即可显示
+     数据来源:Claude Code PostToolUse hook → wakatime-cli(编辑即心跳)-->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" alt="wakatime"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=BenjaminJason&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" alt="wakatime"/>
 </p>
--->
 
 ---
 
